@@ -1,3 +1,3 @@
 # bloco-progressao
-projeot pessoal sem readme definido
+projeto pessoal sem readme definido
 
