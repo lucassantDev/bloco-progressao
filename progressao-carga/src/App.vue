@@ -1,30 +1,20 @@
 <template>
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app" class="min-h-screen bg-gray-50">
+    <LoginScreen/>
+    <MainScreen/>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import Login from './components/Login.vue'
+import MainScreen from './components/MainScreen.vue'
+import LoginScreen from './components/LoginScreen.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
-    Login
+    MainScreen,
+    LoginScreen
   }
 }
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-
-  margin: 0;
-  padding: 0;
-}
-</style>
