@@ -1,5 +1,5 @@
 <template>
-  <div class="p-8">
+  <div class="w-full h-screen p-8">
     <h1 class="text-3xl font-bold mb-6">Olá usuário!</h1>
 
     <div class="w-full h-24 border border-red-500 flex items-center justify-around">
