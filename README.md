@@ -1,3 +1,3 @@
-# Progressão de Carga
+# Pomodoro
 projeto pessoal sem readme definido
 
