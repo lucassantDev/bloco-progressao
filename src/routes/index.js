@@ -4,7 +4,7 @@ import MainScreen from '../components/MainScreen.vue'
 
 const routes = [
   {
-    path: '/Main',
+    path: '/',
     name: 'Main',
     component: MainScreen
   }
