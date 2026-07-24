@@ -3,11 +3,11 @@
 <img src='/pomodoro.png'/>
 
 ### 💻 Stacks:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,tailwind" />
   </a>
 </p>
 
-projeto pessoal sem readme definido
+Projeto pomodoro criado para aprender a utilizar a tecnologia vue.js
 
